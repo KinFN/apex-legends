@@ -29,8 +29,8 @@ body {
   font-size: 16px;
 }
 .button1:hover {
-  background-color: white;
-  color: green;
+  background-color: #101110;
+  color: #F40100;
 }
 
 label {
