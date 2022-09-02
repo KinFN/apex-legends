@@ -18,9 +18,9 @@ body {
 .button1 {
 	margin-left: 43%;
   transition-duration: 0.4s;
-  background-color: #4CAF50;
+  background-color: #F40100;
   border: none;
-  color: pink;
+  color: #101110;
   border-radius: 6px;
   padding: 15px 32px;
   text-align: center;
@@ -34,16 +34,16 @@ body {
 }
 
 label {
-	font: normal 18px Georgia,serif;
+	font: normal 18px Apex Legends,serif;
 }
 
 .button2 {
 	display: none;
 	margin-left: 43%;
   transition-duration: 0.4s;
-  background-color: #4CAF50;
+  background-color: #F40100;
   border: none;
-  color: pink;
+  color: #101110;
   border-radius: 6px;
   padding: 15px 32px;
   text-align: center;
