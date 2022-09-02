@@ -1,6 +1,10 @@
+@font-face {
+    font-family: "Apex Legends";
+    src: url("../ApexFont.otf");
+}
 body {
-  font-family: "Courier New";
-  background: #ff70cf;
+  font-family: "Apex Legends";
+  background: #101110;
   color: #fff;
   line-height: 1.618em;
 }
